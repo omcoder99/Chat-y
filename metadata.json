@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Web",
+  "description": "Full-featured WhatsApp experience with video and voice calls, group calls, communities, daily status, document and location sharing, block and archive controls, call history, and daily screen time usage tracker.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
